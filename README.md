@@ -1,4 +1,4 @@
-# 4 Walls Studio — Static Bento Website
+# 4 Walls Studio - Bento type website
 
 Responsive single-page static website with Lumia-inspired GSAP tile transitions.
 
